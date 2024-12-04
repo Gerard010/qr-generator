@@ -1,0 +1,1 @@
+This code generates QR codes using HTML, CSS, and JavaScript. It provides a user-friendly interface where you can enter text or a URL, and the QR code is created instantly. The design is simple and clean, making it easy for anyone to use.
